@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	width:900px;
+	margin:100px auto;
+	background-color:#ddd;
+	color:#555;
+	font-family:Georgia;
+	font-size:20px;
+	text-align:center;
+}
+
+/******| Alert Button Start |*******/
+.mainmenu{
+	margin-top:20px;
+}
+.mainmenu ul{
+	margin:0 auto;
+	padding:0;
+	background:#000;
+	width:16%;
+}
+.mainmenu ul li{
+	list-style:none;
+	display:inline-block;
+}
+.mainmenu ul li a{
+	display:block;
+	padding:15px 20px;
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-size:14px;
+}
+.mainmenu ul li a:hover{}
+/******| Alert Button End |*******/
